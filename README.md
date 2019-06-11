@@ -1,4 +1,4 @@
-This repo demonstrates a bug with tsc.
+This repo demonstrates a bug with `tsc`.
 
 Setup:
 ```
