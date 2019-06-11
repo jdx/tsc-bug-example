@@ -1,5 +1,7 @@
 This repo demonstrates a bug with `tsc`.
 
+This can be run from any machine, but if you like you could run it inside `docker run -t -i node:12 /bin/bash`
+
 Setup:
 ```
 git clone https://github.com/jdxcode/tsc-bug-example
